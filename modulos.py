@@ -28,5 +28,3 @@ print('Data de hj',data)
 print('Hora de agora',horaDeAgora)
 print('Data personalizada',dataP)
 print('Dia',data.day)
-
-#
